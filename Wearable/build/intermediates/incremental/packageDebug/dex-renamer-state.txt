@@ -1,0 +1,7 @@
+#Thu Nov 17 17:49:07 ART 2016
+base.0=/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_33ad12ecea9d26a0be7885ec137b00bb4f5617e8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f2e9da4021383c4644f1331283565990d9b35b75/classes.dex
+base.1=/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f2e9da4021383c4644f1331283565990d9b35b75
+file.0=/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_33ad12ecea9d26a0be7885ec137b00bb4f5617e8/classes.dex

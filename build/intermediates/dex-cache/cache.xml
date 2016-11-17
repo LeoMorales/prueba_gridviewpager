@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_5e49a774baf8a203e76cd2e1b6d42e76e5f144a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_08e2f51092ae6a4f1d51967bedad8c54e1bdbc26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_df194915af67215f7727cbd4eab581d9a4576c33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_2ea2b5601bb451ecb5499fc58ad5c935254f35a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_29098bc5609020c9c08d957647f207b23b152260/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_7abcec20fe830f8223f002c1f619816f70afb87f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d1c8799f9178ae6c86fca789d7fdbbb13ca5420">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f2e9da4021383c4644f1331283565990d9b35b75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_b9fc2f34956ea0cf3af0ee109037964909c8d9a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_0c6c3c875e1535be34ac5aa6bad2da10063bb302/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-1.4.0_7361e52deab5ce25ce25043c1cfd4836a5a09509/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_a3abb5f1b9ac19503b2ac9376826179a5ad7b393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6c3d6d50f2c0426b3079f9e576dd13bcbe23165a">
+        <dex dex="/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_33ad12ecea9d26a0be7885ec137b00bb4f5617e8/classes.dex" />
+    </item>
+
+</items>

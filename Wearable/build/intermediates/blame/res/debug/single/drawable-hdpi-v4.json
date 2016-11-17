@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/res/merged/debug/drawable-hdpi-v4/card_frame.9.png",
+        "source": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/drawable-hdpi-v4/card_frame.9.png"
+    },
+    {
+        "merged": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/res/merged/debug/drawable-hdpi-v4/card_frame_pressed.9.png",
+        "source": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/drawable-hdpi-v4/card_frame_pressed.9.png"
+    },
+    {
+        "merged": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_full_sad.png",
+        "source": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/drawable-hdpi-v4/ic_full_sad.png"
+    },
+    {
+        "merged": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_full_cancel.png",
+        "source": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/drawable-hdpi-v4/ic_full_cancel.png"
+    }
+]

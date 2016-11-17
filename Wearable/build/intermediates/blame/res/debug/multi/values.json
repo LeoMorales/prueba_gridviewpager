@@ -1,0 +1,1594 @@
+[
+    {
+        "outputFile": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 58,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 60,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 68,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endColumn": 39,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 45,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 45,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 38,
+                    "endOffset": 642
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 647,
+                    "endColumn": 57,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 62,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 56,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 57,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endColumn": 60,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 944,
+                    "endColumn": 89,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 79,
+                    "endOffset": 1109
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1114,
+                    "endColumn": 89,
+                    "endOffset": 1199
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1204,
+                    "endColumn": 89,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 79,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 80,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 79,
+                    "endOffset": 1530
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1535,
+                    "endColumn": 79,
+                    "endOffset": 1610
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1615,
+                    "endColumn": 87,
+                    "endOffset": 1698
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1703,
+                    "endColumn": 77,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1781,
+                    "endColumn": 87,
+                    "endOffset": 1864
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1869,
+                    "endColumn": 87,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endColumn": 77,
+                    "endOffset": 2030
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2035,
+                    "endColumn": 78,
+                    "endOffset": 2109
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2114,
+                    "endColumn": 77,
+                    "endOffset": 2187
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2192,
+                    "endColumn": 77,
+                    "endOffset": 2265
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2270,
+                    "endColumn": 43,
+                    "endOffset": 2309
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2314,
+                    "endColumn": 43,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endColumn": 42,
+                    "endOffset": 2396
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2401,
+                    "endColumn": 51,
+                    "endOffset": 2448
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2453,
+                    "endColumn": 57,
+                    "endOffset": 2506
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2511,
+                    "endColumn": 53,
+                    "endOffset": 2560
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2565,
+                    "endColumn": 47,
+                    "endOffset": 2608
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2613,
+                    "endColumn": 55,
+                    "endOffset": 2664
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2669,
+                    "endColumn": 54,
+                    "endOffset": 2719
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2724,
+                    "endColumn": 39,
+                    "endOffset": 2759
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2764,
+                    "endColumn": 38,
+                    "endOffset": 2798
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2803,
+                    "endColumn": 44,
+                    "endOffset": 2843
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2848,
+                    "endColumn": 40,
+                    "endOffset": 2884
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2889,
+                    "endColumn": 56,
+                    "endOffset": 2941
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2946,
+                    "endColumn": 61,
+                    "endOffset": 3003
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3008,
+                    "endColumn": 37,
+                    "endOffset": 3041
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3046,
+                    "endColumn": 54,
+                    "endOffset": 3096
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3101,
+                    "endColumn": 56,
+                    "endOffset": 3153
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3158,
+                    "endColumn": 39,
+                    "endOffset": 3193
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 9625,
+                    "endColumn": 90,
+                    "endOffset": 9711
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 9716,
+                    "endColumn": 87,
+                    "endOffset": 9799
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 9804,
+                    "endColumn": 89,
+                    "endOffset": 9889
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 9894,
+                    "endColumn": 88,
+                    "endOffset": 9978
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 9983,
+                    "endColumn": 93,
+                    "endOffset": 10072
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 10077,
+                    "endColumn": 95,
+                    "endOffset": 10168
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 10173,
+                    "endColumn": 66,
+                    "endOffset": 10235
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 66,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 10240,
+                    "endColumn": 64,
+                    "endOffset": 10300
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 64,
+                        "endOffset": 950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 10305,
+                    "endColumn": 59,
+                    "endOffset": 10360
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 10365,
+                    "endColumn": 48,
+                    "endOffset": 10409
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 10414,
+                    "endColumn": 55,
+                    "endOffset": 10465
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 10470,
+                    "endColumn": 63,
+                    "endOffset": 10529
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 10534,
+                    "endColumn": 53,
+                    "endOffset": 10583
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 10588,
+                    "endColumn": 57,
+                    "endOffset": 10641
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 10646,
+                    "endColumn": 63,
+                    "endOffset": 10705
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 10710,
+                    "endColumn": 67,
+                    "endOffset": 10773
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 10778,
+                    "endColumn": 58,
+                    "endOffset": 10832
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 10837,
+                    "endColumn": 56,
+                    "endOffset": 10889
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 10894,
+                    "endColumn": 62,
+                    "endOffset": 10952
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 10957,
+                    "endColumn": 55,
+                    "endOffset": 11008
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 11013,
+                    "endColumn": 61,
+                    "endOffset": 11070
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 11075,
+                    "endColumn": 51,
+                    "endOffset": 11122
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 11127,
+                    "endColumn": 53,
+                    "endOffset": 11176
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 11181,
+                    "endColumn": 55,
+                    "endOffset": 11232
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 11237,
+                    "endColumn": 46,
+                    "endOffset": 11279
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 11284,
+                    "endColumn": 74,
+                    "endOffset": 11354
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 11359,
+                    "endColumn": 49,
+                    "endOffset": 11404
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 11409,
+                    "endColumn": 55,
+                    "endOffset": 11460
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 11465,
+                    "endColumn": 47,
+                    "endOffset": 11508
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 11513,
+                    "endColumn": 65,
+                    "endOffset": 11574
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 11579,
+                    "endColumn": 69,
+                    "endOffset": 11644
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 11649,
+                    "endColumn": 62,
+                    "endOffset": 11707
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 11712,
+                    "endColumn": 61,
+                    "endOffset": 11769
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 11774,
+                    "endColumn": 70,
+                    "endOffset": 11840
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 11845,
+                    "endColumn": 66,
+                    "endOffset": 11907
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/version.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 11912,
+                    "endColumn": 123,
+                    "endOffset": 12031
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 12036,
+                    "endColumn": 45,
+                    "endOffset": 12077
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 12082,
+                    "endColumn": 57,
+                    "endOffset": 12135
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 12140,
+                    "endColumn": 91,
+                    "endOffset": 12227
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/auth_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 12232,
+                    "endColumn": 87,
+                    "endOffset": 12315
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/auth_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 12320,
+                    "endColumn": 167,
+                    "endOffset": 12483
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 12488,
+                    "endColumn": 57,
+                    "endOffset": 12541
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 12546,
+                    "endColumn": 155,
+                    "endOffset": 12697
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 12702,
+                    "endColumn": 45,
+                    "endOffset": 12743
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 12748,
+                    "endColumn": 176,
+                    "endOffset": 12920
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 12925,
+                    "endColumn": 49,
+                    "endOffset": 12970
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 12975,
+                    "endColumn": 231,
+                    "endOffset": 13202
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 13207,
+                    "endColumn": 125,
+                    "endOffset": 13328
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 13333,
+                    "endColumn": 180,
+                    "endOffset": 13509
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 13514,
+                    "endColumn": 124,
+                    "endOffset": 13634
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 13639,
+                    "endColumn": 123,
+                    "endOffset": 13758
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 13763,
+                    "endColumn": 212,
+                    "endOffset": 13971
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 13976,
+                    "endColumn": 214,
+                    "endOffset": 14186
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 14191,
+                    "endColumn": 122,
+                    "endOffset": 14309
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 14314,
+                    "endColumn": 164,
+                    "endOffset": 14474
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 14479,
+                    "endColumn": 93,
+                    "endOffset": 14568
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 14573,
+                    "endColumn": 140,
+                    "endOffset": 14709
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 14714,
+                    "endColumn": 89,
+                    "endOffset": 14799
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 14804,
+                    "endColumn": 102,
+                    "endOffset": 14902
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 14907,
+                    "endColumn": 142,
+                    "endOffset": 15045
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 15050,
+                    "endColumn": 99,
+                    "endOffset": 15145
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 15150,
+                    "endColumn": 150,
+                    "endOffset": 15296
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 15301,
+                    "endColumn": 91,
+                    "endOffset": 15388
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 15393,
+                    "endColumn": 218,
+                    "endOffset": 15607
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/common_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 15612,
+                    "endColumn": 218,
+                    "endOffset": 15826
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 15831,
+                    "endColumn": 94,
+                    "endOffset": 15921
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 15926,
+                    "endColumn": 104,
+                    "endOffset": 16026
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 16031,
+                    "endColumn": 180,
+                    "endOffset": 16207
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 16212,
+                    "endColumn": 124,
+                    "endOffset": 16332
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 16337,
+                    "endColumn": 174,
+                    "endOffset": 16507
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 16512,
+                    "endColumn": 104,
+                    "endOffset": 16612
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 16617,
+                    "endColumn": 147,
+                    "endOffset": 16760
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 16765,
+                    "endColumn": 62,
+                    "endOffset": 16823
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 16828,
+                    "endColumn": 61,
+                    "endOffset": 16885
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 16890,
+                    "endColumn": 78,
+                    "endOffset": 16964
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 16969,
+                    "endColumn": 156,
+                    "endOffset": 17121
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 17126,
+                    "endColumn": 61,
+                    "endOffset": 17183
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 17188,
+                    "endColumn": 91,
+                    "endOffset": 17275
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 17280,
+                    "endColumn": 49,
+                    "endOffset": 17325
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 17330,
+                    "endColumn": 464,
+                    "endOffset": 17790
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 17795,
+                    "endColumn": 53,
+                    "endOffset": 17844
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 17849,
+                    "endColumn": 51,
+                    "endOffset": 17896
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 17901,
+                    "endColumn": 55,
+                    "endOffset": 17952
+                },
+                "from": {
+                    "file": "/home/leomorales/LeoMorales/programacion/tesina/pruebas/GridViewPager/Wearable/src/main/res/values/strings.xml"
+                }
+            }
+        ]
+    }
+]
