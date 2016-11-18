@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Android GridViewPager Sample
 ===================================
@@ -48,3 +49,7 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# prueba_gridviewpager
+Entendiendo 2D Picker para Wear
+>>>>>>> b4a75e634c801dc80b0665a4f416306885914b81
