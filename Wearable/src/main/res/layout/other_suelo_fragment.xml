@@ -22,30 +22,41 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/white"
+        android:background="?android:attr/textColorHighlight"
         android:baselineAligned="false"
         android:gravity="center"
         android:orientation="vertical">
 
+<!--
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="0dp"
             android:layout_weight="1"
+            android:orientation="vertical"
             android:gravity="center" >
 
+-->
             <TextView
                 android:id="@+id/nombreEspecie"
                 android:textAlignment="gravity"
                 android:layout_gravity="bottom|center_vertical|center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="hghhvhj"
+                android:text="Especie XXX"
                 android:textColor="#0099cc"
                 android:textAllCaps="false"
                 android:textSize="18sp"
                 android:gravity="center_vertical|center" />
 
-        </LinearLayout>
+            <ImageButton
+                android:id="@+id/boton-toque-directo"
+                android:layout_width="73dp"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_toque_directo"
+                android:background="@android:color/transparent"
+                android:layout_weight="0.25" />
+
+        <!--</LinearLayout>-->
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -55,16 +66,21 @@
             android:orientation="horizontal">
 
             <ImageButton
-                android:id="@+id/boton_tipo_suelo_a"
+                android:id="@+id/boton-suelo-desnudo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/ic_launcher" />
+                android:src="@mipmap/ic_suelo_desnudo"
+                android:background="@android:color/transparent"
+                android:layout_marginRight="20dp"
+                android:elevation="4dp" />
 
             <ImageButton
-                android:id="@+id/boton_tipo_suelo_b"
+                android:id="@+id/boton-muerto-en-pie"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/ic_launcher" />
+                android:src="@mipmap/ic_muerto_en_pie"
+                android:background="@android:color/transparent"
+                android:layout_marginLeft="20dp" />
 
         </LinearLayout>
 
